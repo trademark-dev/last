@@ -19,7 +19,14 @@ body {
     top: 0;
 }
 
-.png img {
-    transform: scale(2);
-    translate: -186px -206px;
+dotlottie-player{
+    transform: scale(1.7);
+}
+
+
+@media (max-width : 668px){
+    dotlottie-player{
+        transform: scale(3);
+    }
+    
 }

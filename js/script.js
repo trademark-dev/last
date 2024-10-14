@@ -1,5 +1,5 @@
-$(document).ready(function() {
-    setTimeout(() => {
-        $("#preloader").fadeOut();
-    }, 3300);
-});
+// $(document).ready(function() {
+//     setTimeout(() => {
+//         $("#preloader").fadeOut();
+//     }, 3300);
+// });
