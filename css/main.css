@@ -17,11 +17,15 @@ body {
     position: fixed;
     left: 0;
     top: 0;
-}
+} 
 
 dotlottie-player{
     transform: scale(1.7);
 }
+/* dotlottie-player{
+    transform: scale(1.7);
+} */
+
 
 
 @media (max-width : 668px){
